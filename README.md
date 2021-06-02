@@ -5,3 +5,4 @@ Exercice 7 dans le cadre du cours 420-W44-SF Infrastructure technologique et vir
 - Jean-Pierre Duchesneau (Cégep)
 - Jean-Pierre Duchesneau (Compte perso)
 - §ébastien Bédard
+- Félix-Albert Ouellet
